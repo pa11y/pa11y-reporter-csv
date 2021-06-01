@@ -1,5 +1,9 @@
 # Pa11y CSV Reporter
 
+## This repository is now deprecated.
+
+The reporter has been merged into [pa11y/reporters](https://github.com/pa11y/pa11y/tree/master/lib/reporters).
+
 A CSV reporter for [Pa11y 5.0](https://github.com/pa11y/pa11y).
 
 **:warning: this reporter is built into Pa11y, there's no need to install separately :warning:**
@@ -10,13 +14,15 @@ A CSV reporter for [Pa11y 5.0](https://github.com/pa11y/pa11y).
 
 ## Table Of Contents
 
-* [Requirements](#requirements)
-  * [Compatibility chart](#compatibility-chart)
-* [Usage](#usage)
-  * [Command-Line](#command-line)
-  * [JavaScript](#javascript)
-* [Contributing](#contributing)
-* [License](#license)
+- [This repository is now deprecated.](#this-repository-is-now-deprecated)
+- [Table Of Contents](#table-of-contents)
+- [Requirements](#requirements)
+  - [Compatibility chart](#compatibility-chart)
+- [Usage](#usage)
+  - [Command-Line](#command-line)
+  - [JavaScript](#javascript)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Requirements
 
