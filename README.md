@@ -12,17 +12,16 @@ A CSV reporter for [Pa11y 5.0](https://github.com/pa11y/pa11y).
 [![Build status][shield-build]][info-build]
 [![LGPL-3.0 licensed][shield-license]][info-license]
 
-## Table Of Contents
+## Table of contents
 
-- [This repository is now deprecated.](#this-repository-is-now-deprecated)
-- [Table Of Contents](#table-of-contents)
-- [Requirements](#requirements)
-  - [Compatibility chart](#compatibility-chart)
-- [Usage](#usage)
-  - [Command-Line](#command-line)
-  - [JavaScript](#javascript)
-- [Contributing](#contributing)
-- [License](#license)
+* [Table of contents](#table-of-contents)
+* [Requirements](#requirements)
+  * [Compatibility chart](#compatibility-chart)
+* [Usage](#usage)
+  * [Command-Line](#command-line)
+  * [JavaScript](#javascript)
+* [Contributing](#contributing)
+* [License](#license)
 
 ## Requirements
 
@@ -95,7 +94,7 @@ Copyright &copy; 2017, Team Pa11y
 
 [info-license]: LICENSE
 [info-npm]: https://www.npmjs.com/package/pa11y
-[info-build]: https://travis-ci.org/pa11y/pa11y
+[info-build]: https://github.com/pa11y/pa11y-reporter-csv/actions/workflows/tests.yml
 [shield-license]: https://img.shields.io/badge/license-LGPL%203.0-blue.svg
 [shield-npm]: https://img.shields.io/npm/v/pa11y-reporter-csv.svg
-[shield-build]: https://img.shields.io/travis/pa11y/pa11y-reporter-csv/master.svg
+[shield-build]: https://github.com/pa11y/pa11y-reporter-csv/actions/workflows/tests.yml/badge.svg
